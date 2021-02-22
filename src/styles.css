@@ -1,0 +1,16 @@
+html {
+  text-align: center;
+  padding: 2rem;
+  font-size: 16px;
+  font-family: courier, arial, helvetica;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+.pints {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
